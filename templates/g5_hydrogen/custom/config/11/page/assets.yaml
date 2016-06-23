@@ -1,0 +1,7 @@
+javascript:
+  -
+    location: 'gantry-assets://custom/js/plan.js'
+    inline: ''
+    in_footer: '0'
+    extra: {  }
+    name: plancholder

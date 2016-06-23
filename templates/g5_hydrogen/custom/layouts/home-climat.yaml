@@ -1,0 +1,71 @@
+version: 2
+
+preset:
+  image: 'gantry-admin://images/layouts/home.png'
+  name: home
+
+layout:
+  /header/:
+    - [logo 12, position-title 55, position-topcontakt 33]
+
+  /navigation/:
+    - menu
+
+  /showcase-1/:
+    
+  /showcase-2/:   
+  
+  /showcase-3/:  
+
+  /feature/:
+
+  /subfeature-1/:  
+    
+  /subfeature-2/:  
+  
+  /pricetitle/:
+  
+  /price/:
+  
+  /posttitle/:
+  
+  /modstrah/:  
+    
+  /subfeature-3/:     
+
+  /main/:
+
+  /footer/:
+  
+  /footer-2/:
+  
+  /footer-3/: 
+  
+  /footer-4/:      
+
+
+  offcanvas:
+    - mobile-menu
+
+structure:
+  subfeature:
+    attributes:
+      class: flush
+  showcase-1:
+    subtype: showcase    
+  showcase-2:
+    subtype: showcase    
+  showcase-3:
+    subtype: showcase 
+  subfeature-1:
+    subtype: feature    
+  subfeature-2:
+    subtype: feature    
+  subfeature-3:
+    subtype: feature   
+  footer-2:
+    subtype: footer 
+  footer-3:
+    subtype: footer 
+  footer-4:
+    subtype: footer                          

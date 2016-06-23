@@ -1,0 +1,13 @@
+javascript:
+  -
+    location: 'gantry-assets://custom/js/plan.js'
+    inline: ''
+    in_footer: '0'
+    extra: {  }
+    name: plansholder
+  -
+    location: 'gantry-assets://custom/js/pricesl.js'
+    inline: ''
+    in_footer: '0'
+    extra: {  }
+    name: price

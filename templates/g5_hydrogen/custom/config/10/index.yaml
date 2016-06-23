@@ -1,0 +1,9 @@
+name: 10
+timestamp: 1453575594
+preset:
+  image: 'gantry-admin://images/layouts/home.png'
+  name: home-climat
+  timestamp: 1453568319
+positions:
+  slider: Слайдер
+  footer: Footer

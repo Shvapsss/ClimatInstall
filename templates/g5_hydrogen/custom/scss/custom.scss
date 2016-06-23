@@ -1,0 +1,117 @@
+@import "vendor/bourbon/bourbon"; @include font-face('DEVROYE_-webfont', 'gantry-theme://fonts/DEVROYE_-webfont'); .font-family-bloody { font-family: 'DEVROYE_-webfont',Helvetica,Arial,sans-serif; font-weight: normal; font-style: normal; }
+
+body {font-size: 1.2rem; line-height: 1.3;}
+
+h1.maintit, h2.maintit2 {line-height: 1.1; margin: 0; font-family: 'RobotoCondensed',sans-serif; font-weight: bold;}
+h1.maintit   {color: #FFF;}
+h2.maintit2 {color: #FFBA00; margin-top: 20px;}
+
+#g-header.top-head {background: url(../images/fhtop.jpg) center top repeat-y;}
+#bl-logo img {max-height: 85px; max-width: 75px;}
+#g-showcase-2, #g-subfeature-3, #g-footer, #g-pricetitle  {background-color: #E1E1E1;}
+#g-subfeature-1.bgtit {background: #E1E1E1;}
+feature { display: block;}
+.tithom {font-size: 32px;}
+.titpad {padding: 20px 0;}
+.titsl {font-size: 42px; text-align: center; color: #2A333C; font-weight: bold;}
+ #pansltop {position: relative; top: -120px;}
+.uk-overlay-panel.uk-flex.uk-flex-center.uk-flex-middle.uk-text-center.uk-overlay-fade > div {line-height: 1.2;}
+#g-feature.reclam-1 {background: url(../images/fslo-3.jpg) center top repeat-y;}
+#g-footer {border: none;}
+.uk-dotnav>*>* {background: rgba(50, 50, 50, 0.2) !important;}
+.uk-dotnav>.uk-active>* {background: rgba(50, 50, 50, 0.4) !important;}
+.g-block.nopaddingall.nomarginall.tpmap.size-100 {padding-top: 10px !important; background: #FFF;}
+#g-footer-2 {background: #293239;}
+#prsmet .g-content {border: 2px solid #B3C8D9; border-radius: 6px; background: url(../images/bgpsm.png) repeat; padding-bottom: 5px;}
+#prsmet .formBody {width: 99%; float: none;}
+
+.formBody.fbdescp {background: url(../images/calkul.png) no-repeat left center; padding-left: 40px;}
+.strimg1, .strimg2, .strimg3, .strimg4, .strimg5 {padding-left: 40px; margin-bottom: 4px;}
+.strimg1 {background: url(../images/ruller.png) no-repeat left center; }
+.strimg2 {background: url(../images/tools.png) no-repeat left center;}
+.strimg3 {background: url(../images/tools2.png) no-repeat left center;}
+.strimg4 {background: url(../images/key.png) no-repeat left center;}
+.strimg5 {background: url(../images/clipboard2.png) no-repeat left center;}
+
+input#Name, input#phone {width: 96%; font-size: 16px; padding: 10px;}
+#prsmet .g-content legend {color: #FFF; font-size: 24px; margin-bottom: 2px;}
+.fbdescp {font-style: italic; font-size: 16px; color: #FFF; margin-bottom: 5px;}
+input#Send {width: 97%; font-size: 16px; text-align: center; padding: 10px; border-radius: 6px; background: #F7941D; color: #FFF;}
+input#Send:hover {background: #F74B1D;}
+
+.finl {float: left; margin-right: 10px; overflow: hidden; width: 219px;}
+.conform input {width: 200px; margin-bottom: 10px; padding: 12px 6px 12px 12px; border-radius: 6px;}
+.componentheading {margin-bottom: 10px; font-size: 24px; font-weight: bold; text-align: center; color: #FFF;}
+input#sendc {background: #F7941D; color: #FFF; padding: 10px 6px 10px 12px;}
+input#sendc:hover {background: #F74B1D;}
+.formwrap {max-width: 926px; overflow: hidden; border-radius: 6px; background: #293139; padding: 10px 0 10px 10px; margin: 0 auto;}
+.moduletable._polcontop {position: absolute; width: 100%; top: 700px; z-index: 65555;}
+
+#topformcon {margin-top: 30%;}
+
+.g-content.blos {margin: 0 !important; padding: 0 !important;}
+.g-grid.tblokwid {max-width: 926px !important; margin: 0 auto;}
+.g-content.blos.popr-1 .formwrap {background-color: rgba(40, 49, 56, 1.0) !important;}
+.fontstil-1 {font-weight: bold; font-size: 24px; text-align: center;}
+.fontstil-2 {font-size: 24px; text-align: center;}
+.fontstil-3 {font-size: 22px; text-align: center; margin-bottom: 15px;}
+
+.fbold  {font-weight: bold;}
+.fcol-1 {color: #F5951D;}
+.fstyl  {font-style: italic;}
+
+.predlog h3.uk-panel-title {font-size: 1.8rem; font-style: italic; font-weight: bold;}
+.predlog div.uk-margin {font-style: italic;}
+
+.textblock-1 p {line-height: 1.15; font-size: 1.0rem; margin: 10px 0;}
+.bord-1, .bord-2 {background: url(../images/border-1.png) no-repeat; width: 100%; height: 40px;}
+.bord-1 {background-position: center top;}
+.bord-2 {background-position: center bottom;}
+
+h2.titumeem {color: #FFF; line-height: 1.1; margin-top: 0; margin-bottom: 15px;}
+.vstatext {font-size: 18px; color: #FFF; margin-bottom: 15px;}
+.textblock-2 {margin-bottom: 20px;}
+.textblock-2 div {color: #FFF; font-style: italic; line-height: 32px;}
+
+.moduletable._polcon {padding-top: 15px;}
+.moduletable._polcon form {margin-bottom: 0;}
+.custom_cont .zvon, .customtopcont .zvon {background: url(../images/phone.png) no-repeat left center; padding-left: 40px; line-height: 42px; width: 225px; font-size: 26px; color: #FFF; margin: 0 auto;}
+.custom_cont .modzvon, .customtopcont .modzvon {color: #FDCF46;}
+.custom_cont .eamail, .copyr, .customtopcont .eamail {color: #8E9BAB;} 
+.copyr {padding: 10px 0 20px !important; font-size: 1rem;}
+.customtopcont .zvon, .customtopcont .modzvon, .customtopcont .eamail {text-align: center;}
+
+table.table, table.table tr, table.table td {border: 0px solid #999;}
+p.tsty1 {margin: 0 0 3px 0;}
+p.tsty2 {margin: 0 0 8px 0;}
+table.table {border-bottom: 1px solid #ccc;}
+table.table td.tdleft {border-right: 1px solid #ccc; width: 80%;}
+table.table td.tdright {padding-left: 30px;}
+ul.ulprise {margin-left: 0;}
+ul.ulprise li {padding-left: 24px; list-style-type: none; background: url(../images/arrowright.png) left 5px no-repeat; margin-bottom: 10px;}
+
+/* Siler Price */
+#knpdown, #knpup {background: #F7941D; padding: 10px 20px; color: #FFF; font-size: 1.0rem; border-radius: 6px; font-weight: bold; cursor: pointer}
+#knpup {margin-bottom: 20px; display: block; float: left; width: auto;}
+tr.zaglushka td {padding: 0;}
+table.table.bordbot {border-bottom: none;}
+#slideprice {}
+.slidepri {display: none;}
+
+
+
+.muthon {background-color: #e1e1e1;}
+
+.moduletable.topcont {padding-top: 3px;}
+
+@media (max-width: 1700px) {.moduletable._polcontop {top: 600px;}}
+@media (max-width: 1390px) {.moduletable._polcontop {top: 550px;} #pansltop {top: -100px;}}
+@media (max-width: 1270px) {.moduletable._polcontop {top: 500px;} #pansltop {top: -80px;}}
+@media (max-width: 1160px) {.moduletable._polcontop {top: 430px;} #pansltop {top: -60px;} .titsl {font-size: 38px;}}
+@media (max-width: 1040px) {.moduletable._polcontop {top: 400px;}}
+@media (max-width: 960px) {h2.maintit2 {font-size: 28px;} h1.maintit {font-size: 30px;}}
+@media (max-width: 942px) {.moduletable._polcontop {top: 330px;} .formwrap {background-color: rgba(0, 0, 0, 0.6);}}
+@media (max-width: 840px) {.titsl {font-size: 32px;} .moduletable._polcontop {top: 300px !important;} .formwrap {background-color: rgba(0, 0, 0, 0.6);}}
+@media (max-width: 767px) {.moduletable._polcon .finl {width: 100%;} .moduletable._polcon .conform input {width: 94%;} .conform input {padding: 6px;} 
+.titsl {font-size: 28px;} #pansltop{top: -40px !important;} .form2LinesLayout.conform input {width: 94%;} .formField.rsform-block.finl {width: 100%;}}
+@media (max-width: 767px) {.moduletable._polcontop {top: 280px !important; display: none;} #pansltop{top: -30px;} .moduletable.topcont .bloclcon {text-align: center;}}
